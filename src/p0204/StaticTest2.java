@@ -16,5 +16,6 @@ public class StaticTest2 {
 		sd = new StaticTest2();
 		System.out.println(sd.num1);
 		//non static은 새로 메모리를 만들면 초기화 되지만 static은 새로운 메모리를 만들어도 초기화 하지 않음
+		
 	}
 }

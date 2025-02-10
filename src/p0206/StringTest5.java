@@ -18,7 +18,7 @@ public class StringTest5 {
 		
 		boolean hasTa = str.contains("타"); //false
 		System.out.println(hasTa);
-		if (str.contains("타")!=1 ) {
+		if (str.contains("타") ) {
 			System.out.println("str에는 타라는 글자가 있다");
 		}else {
 			System.out.println("str에는 타라는 글자가 없다");
