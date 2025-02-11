@@ -23,6 +23,5 @@ public class MethodTest3 {
 		// nums 각 방에 입력해주세요
 		setArray(nums);
 		printArray(nums);
-		
 	}
 }

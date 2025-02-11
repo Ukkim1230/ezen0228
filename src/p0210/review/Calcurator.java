@@ -10,7 +10,7 @@ class Minus {
 
 class Plus {
 	static void plus(int targetNumber1, int targetNumber2) {
-		System.out.print(targetNumber1 + "-" + targetNumber2 + "=" + (targetNumber1 + targetNumber2));
+		System.out.print(targetNumber1 + "+" + targetNumber2 + "=" + (targetNumber1 + targetNumber2));
 	}
 }
 
