@@ -39,7 +39,6 @@ public class Calcurator2 {
 				if (numbersArray[1].equals("+")) {
 					
 				}
-
 			}
 		}
 	}
