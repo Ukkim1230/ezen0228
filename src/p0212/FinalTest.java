@@ -1,4 +1,4 @@
-package p2012;
+package p0212;
 
 public class FinalTest {
 	public static final class Example{
