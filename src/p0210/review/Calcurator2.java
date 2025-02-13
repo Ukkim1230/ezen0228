@@ -39,7 +39,10 @@ public class Calcurator2 {
 				if (numbersArray[1].equals("+")) {
 					
 				}
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'master' of https://github.com/seonghyeon050113/Ezen.git
 			}
 		}
 	}
