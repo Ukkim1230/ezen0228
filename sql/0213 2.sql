@@ -30,4 +30,4 @@ and FI_NAME like '%라%';
 delete  from FOOD_INFO
 where FI_NUM>=6;
 
-select * from FOOD_INFO;
+select * from FOOD_INFO;                                                                                                             
