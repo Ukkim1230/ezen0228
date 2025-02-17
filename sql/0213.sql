@@ -13,7 +13,7 @@ insert into USER_INFO(UI_NAME,UI_ID,UI_PWD)
 VALUES('홍길동','HONG','1234')
 ,('김길동','KIM','1234')
 ,('이길동','LEE','1234');
-## *는 모든 것을 뜻한다
+## *는 컴럼의 전체의 것을 뜻한다
 select * from USER_INFO
 where UI_NAME like '%동';
 delete  from USER_INFO

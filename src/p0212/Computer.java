@@ -3,7 +3,7 @@ package p0212;
 public class Computer {
 	private String cpu;
 	private String ran;
-	private String Gpu
+	private String Gpu;
 	public String getCpu() {
 		return cpu;
 	}
