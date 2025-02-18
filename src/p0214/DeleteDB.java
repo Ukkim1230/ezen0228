@@ -25,7 +25,6 @@ public class DeleteDB {
 			Connection con = DriverManager.getConnection(url, user,user);
 			Statement stmt = con.createStatement();
 			String sql = "DELETE from FOOD_INFO WHERE FI_NUM=102";
-			sql += "WHERE UI_NAME= "
 			int result = stmt.executeUpdate(sql);
 			if (result>= 1) {
 				System.out.println("삭제 완료");
