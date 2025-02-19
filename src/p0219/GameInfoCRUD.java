@@ -29,6 +29,7 @@ public class GameInfoCRUD {
 		}
 		return 0;
 	}
+	
 	public static void main(String[]args) {
 		GameInfoCRUD crud = new GameInfoCRUD();
 		int result  = crud.insertGameInfo("오버워치",40000,"FPS","매우재미있다");
